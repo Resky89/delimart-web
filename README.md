@@ -102,11 +102,9 @@ DELIMART is a web-based inventory management system built with Laravel that help
 - 🎨 Custom styles (sb-admin-2.min.css)
 - 📜 JavaScript libraries (jQuery, Bootstrap, Chart.js)
 
-## [Demo Aplikasi Delimart](https://delimart.praktikum-cpanel-unbin.com)
+## Related Repositories
 
-Use the following credentials to log in:
-- **Username**: Admin
-- **Password**: 12345678
+- [Delimart Mobile, Desktop, and Server Sources](https://github.com/awaludinmil/delimartpro)
 
 ## Installation & Setup
 
