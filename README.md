@@ -1,8 +1,5 @@
 # DELIMART - Inventory Management System
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 DELIMART is a web-based inventory management system built with Laravel that helps manage products, suppliers, employees, and mobile credit (pulsa) sales.
 
 ## Features
@@ -10,7 +7,7 @@ DELIMART is a web-based inventory management system built with Laravel that help
 ### Authentication
 
 - 🔒 Secure login system
-- 👥 Role-based access control (Admin and User roles)
+- 👥 Role-based access control (Admin)
 - 💾 Remember me functionality
 
 ### Dashboard
@@ -105,14 +102,6 @@ DELIMART is a web-based inventory management system built with Laravel that help
 ## Related Repositories
 
 - [Delimart Mobile, Desktop, and Server Sources](https://github.com/awaludinmil/delimartpro)
-
-## Installation & Setup
-
-[Add installation instructions here]
-
-## License
-
-[Add license information here]
 
 ## Credits
 
